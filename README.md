@@ -1,5 +1,7 @@
 # NextFlowNYC
 
+<img src="https://github.com/user-attachments/assets/f289c5f3-22fd-4402-ad37-ceba1e847cde" alt="Traffic Flow Image (AI Generated)" width="100%">
+
 ## Introduction
 
 This project delves into the analysis and forecasting of automated traffic volume counts in New York City. Utilizing a dataset spanning from 2011 to 2020, sourced from Kaggle's "NYC Automated Traffic Volume Counts" dataset, this project aims to uncover patterns, trends, and insights into traffic dynamics. The primary focus is on developing and evaluating time series forecasting models to predict future traffic volumes accurately.
