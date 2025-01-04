@@ -131,65 +131,47 @@ The following table summarizes the key evaluation metrics (Mean Absolute Error (
 
 Below are the plots of actual vs. predicted traffic volumes for each model and each test year. These visualizations provide a more intuitive understanding of the model's performance.
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="text-align: center; margin: 10px;">
-    <div style="font-size: 20px; font-weight: bold; border: 2px solid white; padding: 5px; background-color: rgba(255, 255, 255, 0.04);">MODEL t-6 2017</div>
-    <img src="images/t-6-2017.png" alt="MODEL t-6 2017" width="425px">
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <div style="font-size: 20px; font-weight: bold; border: 2px solid white; padding: 5px; background-color: rgba(255, 255, 255, 0.04);">MODEL u-12 2017</div>
-    <img src="images/u-12-2017.png" alt="MODEL u-12 2017" width="425px">
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <div style="font-size: 20px; font-weight: bold; border: 2px solid white; padding: 5px; background-color: rgba(255, 255, 255, 0.04);">MODEL v-18 2017</div>
-    <img src="images/v-18-2017.png" alt="MODEL v-18 2017" width="425px">
-  </div>
-</div>
+#### MODEL t-6 2017
+<img src="images/t-6-2017.png" alt="MODEL t-6 2017" width="425px">
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="text-align: center; margin: 10px;">
-    <div style="font-size: 20px; font-weight: bold; border: 2px solid white; padding: 5px; background-color: rgba(255, 255, 255, 0.04);">MODEL t-6 2018</div>
-    <img src="images/t-6-2018.png" alt="MODEL t-6 2018" width="425px">
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <div style="font-size: 20px; font-weight: bold; border: 2px solid white; padding: 5px; background-color: rgba(255, 255, 255, 0.04);">MODEL u-12 2018</div>
-    <img src="images/u-12-2018.png" alt="MODEL u-12 2018" width="425px">
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <div style="font-size: 20px; font-weight: bold; border: 2px solid white; padding: 5px; background-color: rgba(255, 255, 255, 0.04);">MODEL v-18 2018</div>
-    <img src="images/v-18-2018.png" alt="MODEL v-18 2018" width="425px">
-  </div>
-</div>
+#### MODEL u-12 2017
+<img src="images/u-12-2017.png" alt="MODEL u-12 2017" width="425px">
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="text-align: center; margin: 10px;">
-    <div style="font-size: 20px; font-weight: bold; border: 2px solid white; padding: 5px; background-color: rgba(255, 255, 255, 0.04);">MODEL t-6 2019</div>
-    <img src="images/t-6-2019.png" alt="MODEL t-6 2019" width="425px">
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <div style="font-size: 20px; font-weight: bold; border: 2px solid white; padding: 5px; background-color: rgba(255, 255, 255, 0.04);">MODEL u-12 2019</div>
-    <img src="images/u-12-2019.png" alt="MODEL u-12 2019" width="425px">
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <div style="font-size: 20px; font-weight: bold; border: 2px solid white; padding: 5px; background-color: rgba(255, 255, 255, 0.04);">MODEL v-18 2019</div>
-    <img src="images/v-18-2019.png" alt="MODEL v-18 2019" width="425px">
-  </div>
-</div>
+#### MODEL v-18 2017
+<img src="images/v-18-2017.png" alt="MODEL v-18 2017" width="425px">
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="text-align: center; margin: 10px;">
-    <div style="font-size: 20px; font-weight: bold; border: 2px solid white; padding: 5px; background-color: rgba(255, 255, 255, 0.04);">MODEL t-6 2020</div>
-    <img src="images/t-6-2020.png" alt="MODEL t-6 2020" width="425px">
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <div style="font-size: 20px; font-weight: bold; border: 2px solid white; padding: 5px; background-color: rgba(255, 255, 255, 0.04);">MODEL u-12 2020</div>
-    <img src="images/u-12-2020.png" alt="MODEL u-12 2020" width="425px">
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <div style="font-size: 20px; font-weight: bold; border: 2px solid white; padding: 5px; background-color: rgba(255, 255, 255, 0.04);">MODEL v-18 2020</div>
-    <img src="images/v-18-2020.png" alt="MODEL v-18 2020" width="425px">
-  </div>
-</div>
+---
+
+#### MODEL t-6 2018
+<img src="images/t-6-2018.png" alt="MODEL t-6 2018" width="425px">
+
+#### MODEL u-12 2018
+<img src="images/u-12-2018.png" alt="MODEL u-12 2018" width="425px">
+
+#### MODEL v-18 2018
+<img src="images/v-18-2018.png" alt="MODEL v-18 2018" width="425px">
+
+---
+
+#### MODEL t-6 2019
+<img src="images/t-6-2019.png" alt="MODEL t-6 2019" width="425px">
+
+#### MODEL u-12 2019
+<img src="images/u-12-2019.png" alt="MODEL u-12 2019" width="425px">
+
+#### MODEL v-18 2019
+<img src="images/v-18-2019.png" alt="MODEL v-18 2019" width="425px">
+
+---
+
+#### MODEL t-6  2020
+<img src="images/t-6-2020.png" alt="MODEL t-6 2020" width="425px">
+
+#### MODEL u-12 2020
+<img src="images/u-12-2020.png" alt="MODEL u-12 2020" width="425px">
+
+#### MODEL v-18 2020
+<img src="images/v-18-2020.png" alt="MODEL v-18 2020" width="425px">
 
 ### Best Performing Model
 
