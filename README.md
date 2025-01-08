@@ -105,6 +105,8 @@ The project follows a systematic workflow, encompassing the following stages:
 
 Three different models were trained and evaluated in this project: **t-6**, **u-12**, and **v-18**. These models represent variations in training parameters, specifically the batch size used during training. The models were trained on data from 2011-2016 and tested on data from 2017-2020.
 
+It is important to note that t-6 was initially trained with a batch size of 32 (1 epoch per year). This model was then loaded and continued training with a batch size of 256 (2 epochs per year), resulting in u-7, which further trained on data from 2011-2016. Subsequently, u-12 was loaded and continued training with a batch size of 1024 (3 epochs per year), re-training the data from 2011-2016 entirely with this configuration.
+
 The following table summarizes the key evaluation metrics (Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Root Mean Squared Error (RMSE), Median Absolute Error (MedAE), and R-squared (R2) Score) for each model on the test datasets:
 
 | Year |   Model  |   MAE  |   MAPE   |   RMSE   |  MedAE   | R2 Score  |
